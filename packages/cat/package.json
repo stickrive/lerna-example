@@ -1,6 +1,6 @@
 {
   "name": "cat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "高轩云 <yxgstick@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "animal": "^1.0.0",
+    "animal": "^1.0.1",
     "babel-core": "^6.26.3",
     "lodash": "^4.17.21"
   }
